@@ -1,16 +1,23 @@
 ## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Jashanfzk/jashanfzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Jashanpreet Singh**, a **Software Developer** passionate about **web development** and **UI/UX design**.  
+I'm currently enhancing my skills in **C#, JavaScript, HTML, CSS, MySQL**, and **Figma** while pursuing a web development course.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Skills
+- **Programming:** C#, JavaScript, HTML, CSS
+- **Database:** MySQL
+- **Design:** UI/UX using Figma
+- **Interests:** Web Development,data base
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Shuffle card game
+Technologies used: CSS,HTML JavaScript A web application for playing a card game where cards shuffle at a certain speed, and the player must identify and select the odd one out, which was chosen at the start.
+
+
+## 📫 Connect with Me
+- [GitHub](https://github.com/jashanfzk)
+- [LinkedIn](https://www.linkedin.com/in/jashan-gill-53bb2022b/)
+
+Feel free to explore my repositories and contribute! 😊
+
