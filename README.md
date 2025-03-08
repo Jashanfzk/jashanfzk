@@ -5,7 +5,7 @@ Hi, I'm **Jashanpreet Singh**, a **Software Developer** passionate about **web d
 I'm currently enhancing my skills in **C#, JavaScript, HTML, CSS, MySQL**, and **Figma** while pursuing a web development course.
 
 ## 🔧 Technologies & Skills
-- **Programming:** C#, JavaScript, HTML, CSS
+- **Programming:** C#, JavaScript ![javascript image] (https://static.wikia.nocookie.net/coding-help/images/6/69/JavaScript.png/revision/latest?cb=20230517123229), HTML, CSS 
 - **Database:** MySQL
 - **Design:** UI/UX using Figma
 - **Interests:** Web Development,data base
